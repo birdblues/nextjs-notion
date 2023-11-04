@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Next Gen Blog',
   domain: 'port-0-nextjs-notion-euegqv2llojemb8w.sel5.cloudtype.app',
-  author: 'Travis Fischer',
+  author: 'Donghwan Seo',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
